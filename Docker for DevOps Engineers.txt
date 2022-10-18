@@ -1,0 +1,66 @@
+Hi
+What is Docker
+Docker vs VM
+Installing Docker
+Exploring Docker Dashboard
+Tools
+Getting started with Docker
+Undestanding Containers
+Docker Images and Containers
+Managing Containers
+Docker ps format
+Exposing Ports
+Exposing Multiple Ports
+Naming Containers
+Running Container in the background
+Docker Images
+Managing Docker Images
+Docker Pull
+Inspecting Images
+Docker Architecture
+Docker Daemon
+Volumes
+Bind Mount Volumes
+Bind Mount Volumes in Action
+Using Vomules for Local Dev
+Docker Volumes
+TMPFS Mount
+Dockerfile
+Creating Dockerfile
+Building DockerImages
+Running a container from Custom Image
+Investigate Container file system
+Buliding ExpressJS API
+Dockerfile and Building image for user-api
+Running Container for user-api image
+Exploring Dockerfiles
+Dockerfile reference
+Pulling Images using a Specifc Tag
+Creating tags
+Creating Version 2 of the Dashboard
+Never Run Latest In Production
+Image Variants
+Docker Registries
+Docker Login
+Docker push
+Docker Inpect
+Logs
+Running commands in Containers
+How to comunicate between containers
+Docker Network
+MongoDB Container
+MongoExpress
+Understanding Container Communication
+Another example
+What is Docker Compose
+Docker Compose cmd
+Services
+Docker Network
+Docker Compose Up
+Exploring docker compose commands
+Docker Volume
+Docker Compose Documentation
+Docker scan
+Trivy
+Distroless Images
+Security Best Practices
